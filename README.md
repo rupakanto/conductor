@@ -5,7 +5,7 @@ Conductor
 [![star](http://githubbadges.com/star.svg?user=conductor-framework&repo=conductor)](http://github.com/conductor-framework/conductor)
 [![fork](http://githubbadges.com/fork.svg?user=conductor-framework&repo=conductor)](http://github.com/conductor-framework/conductor/fork)
 
-# Getting Started
+# Getting Started.
 Using maven, include it as a dependency:
 ```xml
 <dependency>
